@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Mac GCC 15",
+            "compilerPath": "/usr/local/bin/g++-15",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-gcc-x64"
+        }
+    ],
+    "version": 4
+}
